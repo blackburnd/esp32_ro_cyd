@@ -1,1 +1,9 @@
 .DS_Store
+/build
+/managed_components/espressif__esp_lvgl_port
+/managed_components/lvgl__lvgl
+/managed_components/espressif__cmake_utilities
+/managed_components/78__esp-wifi-connect
+/managed_components/atanisoft__esp_lcd_touch_xpt2046
+/managed_components/espressif__esp_lcd_ili9341
+/managed_components/espressif__esp_lcd_touch
